@@ -1,0 +1,7 @@
+my file
+green
+white
+blue
+pink
+hello dolly
+hello world!
